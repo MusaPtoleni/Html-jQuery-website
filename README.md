@@ -1,5 +1,5 @@
 # Html-jQuery-website
-In the site I showcase how jQuery can be implemented in a website 
+In the site I showcase how jQuery can be implemented in a traditional restaurant website 
 
 ### How to use the website.
 1. To hide an image click on one of the images 
